@@ -1,3 +1,4 @@
 sut:
   build: .
   command: echo "Docker Cloud demo test"
+  command: dsf > sdfds fdfddsf
